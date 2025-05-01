@@ -8,7 +8,7 @@ TravelHub is a frontend-oriented web application that offers users a clean and m
 
 - **React.js** – Frontend library
 - **JavaScript (ES6+)**
-- **CSS / Tailwind CSS** (or standard CSS if Tailwind not used)
+- **CSS / Tailwind CSS**
 - **Netlify** – Deployment
 
 # Getting Started with Create React App
