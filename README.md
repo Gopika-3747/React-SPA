@@ -19,10 +19,12 @@ TravelHub is a frontend-oriented web application that offers users a clean and m
    cd travelhub
    
 2. **Install dependencies:**
+    ```bash
     npm install
 
 3. **Run the project:**
-    npm start
+   ```bash
+   npm start
 
 # Getting Started with Create React App
 
