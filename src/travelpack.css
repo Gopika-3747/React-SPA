@@ -1,0 +1,66 @@
+.travel-packages {
+    padding: 50px;
+    background-color: #F5ECE3;
+  }
+  
+  .travel-packages h2 {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #422e25;
+    margin-bottom: 30px;
+  }
+  
+  .package-card {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .package-card div {
+    background-color: #fcf4ed;
+    width: 300px;
+    margin: 15px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+    transition: transform 0.3s ease;
+  }
+  
+  .package-card div:hover {
+    transform: scale(1.05);
+  }
+  
+  .package-card h3 {
+    font-size: 1.6rem;
+    color: #242220;
+  }
+  
+  .package-card p {
+    font-size: 1rem;
+    color: #5c6465;
+  }
+  
+  .package-card .price {
+    font-size: 1.4rem;
+    color: #d11804;
+    font-weight: 500;
+    margin: 10px 0;
+  }
+  
+  .package-card a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #8E562E;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in;
+  }
+  
+  .package-card a:hover {
+    background-color: #E6D0B9;
+    color: #242220;
+    font-weight: bold;
+  }
+  

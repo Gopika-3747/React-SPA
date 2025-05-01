@@ -1,0 +1,88 @@
+.homepage {
+    padding: 50px;
+    background-color:  #F5ECE3;
+    font-family: Arial, sans-serif;
+    height: 100%;
+  }
+  
+  .homepage h1 {
+    text-align: center;
+    font-size: 3rem;
+    color: #31261e ;
+  }
+  .homepage h2 {
+    color: #5e4b59;
+    font-size: 1.6rem;
+  }
+
+  .homepage h3 {
+    color: #2c2329;
+  }
+  
+  .homepage p {
+    font-size: 1.1rem;
+    margin: 20px 0;
+    color: #5F5B60;
+    text-align: left;
+    line-height: 25px;
+  }
+  
+  .homepage nav {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .homepage nav a {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #6f4f37;
+    color: #f4f1de;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow: 2px 3px 4px 0px rgba(1,1,1,0.2);
+    transition: background-color 0.3s ease;
+  }
+  
+  .homepage nav a:hover {
+    background-color: #d2691e;
+    color: #2d2b2b;
+  }
+  
+  .homepage ul li {
+
+    color: #5F5B60;
+    font-size: 1.1rem;
+  }
+  .boxes {
+    display: flex;
+    list-style: none;
+    height: 500px;
+   width: 100%;
+   justify-content: space-around;
+   align-items:flex-start;
+   flex-wrap: wrap;
+   
+  }
+  .boxes li {
+    height: 200px;
+    background-color: #dacdc6ce;
+    box-shadow: 2px 3px 4px 0px rgba(1,1,1,0.2);
+    border-radius: 50%;
+    width:200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 20px;
+    flex-wrap: wrap;
+    min-width: 40%;
+  }
+
+  #client {
+    font-weight: 600;
+  }

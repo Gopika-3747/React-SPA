@@ -1,0 +1,21 @@
+.contact-page {
+    padding: 30px;
+    background-color: #F5ECE3;
+    font-family: Arial, sans-serif;
+    height: 450px;
+  }
+  
+  .contact-page h2 {
+    text-align: left;
+    font-size: 2.3rem;
+    color: #422e25;
+    margin-bottom: 30px;
+  }
+  
+  .contact-page p {
+    font-size: 1.1rem;
+    color: #575c5c;
+    text-align: left;
+    line-height: 30px;
+  }
+  
